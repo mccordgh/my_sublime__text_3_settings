@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Grunt",
+		"Handlebars",
+		"JSHint",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"Semicolon",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SyncedSidebarBg",
+		"zz File Icons"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3"
+	]
+}
