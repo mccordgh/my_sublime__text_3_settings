@@ -759,7 +759,7 @@
 					"file": "/C/Users/matthew/AppData/Roaming/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 150,
+						"buffer_size": 155,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -1405,15 +1405,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 150,
+								"buffer_size": 155,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										142,
-										142
+										147,
+										147
 									]
 								],
 								"settings":
